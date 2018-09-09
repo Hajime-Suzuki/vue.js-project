@@ -1,0 +1,10 @@
+$block_size: 200px;
+$section_margin: $block_size/4;
+$color_accent: rgb(251, 145, 20);
+$color: lighten(#425569, 30%);
+$name_height_text_section_desktop: 30px;
+$section_margin_desktop: $section_margin+$name_height_text_section_desktop * 2;
+$photo_width_desktop: 50%;
+$text_width_desktop: 50%;
+$text_margin_desktop: 10%;
+$transition: 0.7s;
